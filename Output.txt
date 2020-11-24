@@ -1,0 +1,11 @@
+
+Gen1 Uzunluk:5
+Gen2 Uzunluk:6
+
+Gen hizalama sonucu:+
+Gen1:W--WC
+Gen1:WEEWC
+
+Eslesme sayisi:3
+Eslesmeme sayisi:0
+Bosluk sayisi:2
